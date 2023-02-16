@@ -1,1 +1,3 @@
 git test file
+
+git 변수명 설정
